@@ -1,0 +1,30 @@
+[project]
+name = "openadmet-cyp3a4-study"
+version = "0.1.0"
+description = "CYP3A4 matched-molecular-pair exploratory data analysis"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "chembl-webresource-client==0.10.9",
+    "marimo==0.25.0",
+    "marimo-mmp",
+    "matplotlib==3.10.6",
+    "mmpdb==3.1.4",
+    "rdkit==2026.3.5",
+    "requests==2.34.2",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+marimo-mmp = { path = "distribution/marimo_mmp-0.0.1-py3-none-any.whl" }
+
+[tool.ruff]
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"notebook.py" = ["F841", "B018"]

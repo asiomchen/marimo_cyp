@@ -1,0 +1,32 @@
+{
+  "chembl": {
+    "aggregation": {
+      "across_assays": "geometric_mean_IC50",
+      "within_assay": "geometric_mean_IC50"
+    },
+    "candidate_activity_rows": 6337,
+    "client": "chembl-webresource-client==0.10.9",
+    "compounds": 3904,
+    "direct_assays": 1176,
+    "query": {
+      "assay_confidence_score": 9,
+      "assay_relationship_type": "D",
+      "data_validity_comment": null,
+      "potential_duplicate": 0,
+      "standard_flag": 1,
+      "standard_relation": "=",
+      "standard_type": "IC50",
+      "standard_units": "nM"
+    },
+    "release": "ChEMBL_37",
+    "sha256": "a4ebbaaa97e2a46c63e86d06af10751419f348a4fac35396a2ed10144291ebbd",
+    "target": "CHEMBL340"
+  },
+  "openadmet": {
+    "revision": "3ac9c5dbb83eec5780ec7fa511908698cfe1396d",
+    "rows": 4905,
+    "sha256": "b8f79addd266fb6f9f4c222c5e4e73d926362328b6a8d2841871a54e46bd2278",
+    "url": "https://huggingface.co/datasets/openadmet/cyp-challenge-train-test/resolve/3ac9c5dbb83eec5780ec7fa511908698cfe1396d/cyp-challenge-TRAIN_inhibition.csv?download=true"
+  },
+  "retrieved_at_utc": "2026-09-29T13:54:37+00:00"
+}
