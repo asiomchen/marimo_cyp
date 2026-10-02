@@ -8,24 +8,24 @@
   "curated_chembl": 3904,
   "curated_openadmet": 2335,
   "database": {
-    "compound": 2752,
-    "pair": 30476,
-    "rule": 4849,
-    "rule_environment": 23167
+    "compound": 3314,
+    "pair": 50068,
+    "rule": 9426,
+    "rule_environment": 41982
   },
   "source_sha256": {
     "chembl": "a4ebbaaa97e2a46c63e86d06af10751419f348a4fac35396a2ed10144291ebbd",
     "openadmet": "b8f79addd266fb6f9f4c222c5e4e73d926362328b6a8d2841871a54e46bd2278"
   },
   "transforms": {
-    "transforms_OCNT-2395548_ChEMBL_pIC50.tsv": 58,
-    "transforms_OCNT-2395548_Combined_pIC50.tsv": 65,
+    "transforms_OCNT-2395548_ChEMBL_pIC50.tsv": 63,
+    "transforms_OCNT-2395548_Combined_pIC50.tsv": 70,
     "transforms_OCNT-2395548_OpenADMET_pIC50.tsv": 16,
-    "transforms_OCNT-2395554_ChEMBL_pIC50.tsv": 99,
-    "transforms_OCNT-2395554_Combined_pIC50.tsv": 108,
-    "transforms_OCNT-2395554_OpenADMET_pIC50.tsv": 16,
-    "transforms_OCNT-2395632_ChEMBL_pIC50.tsv": 28,
-    "transforms_OCNT-2395632_Combined_pIC50.tsv": 43,
-    "transforms_OCNT-2395632_OpenADMET_pIC50.tsv": 17
+    "transforms_OCNT-2395554_ChEMBL_pIC50.tsv": 124,
+    "transforms_OCNT-2395554_Combined_pIC50.tsv": 134,
+    "transforms_OCNT-2395554_OpenADMET_pIC50.tsv": 17,
+    "transforms_OCNT-2395632_ChEMBL_pIC50.tsv": 29,
+    "transforms_OCNT-2395632_Combined_pIC50.tsv": 47,
+    "transforms_OCNT-2395632_OpenADMET_pIC50.tsv": 20
   }
 }

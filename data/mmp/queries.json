@@ -6,7 +6,7 @@
     "observed_neighbors": 10,
     "file": "transforms_OCNT-2395548_Combined_pIC50.tsv",
     "property": "Combined_pIC50",
-    "products": 65
+    "products": 70
   },
   {
     "id": "OCNT-2395548",
@@ -24,60 +24,60 @@
     "observed_neighbors": 10,
     "file": "transforms_OCNT-2395548_ChEMBL_pIC50.tsv",
     "property": "ChEMBL_pIC50",
-    "products": 58
+    "products": 63
   },
   {
     "id": "OCNT-2395632",
     "smiles": "CC(C)=CCN1CCN(C(C)c2nc(C3CC3)no2)CC1",
     "pIC50": 3.68222437,
-    "observed_neighbors": 8,
+    "observed_neighbors": 10,
     "file": "transforms_OCNT-2395632_Combined_pIC50.tsv",
     "property": "Combined_pIC50",
-    "products": 43
+    "products": 47
   },
   {
     "id": "OCNT-2395632",
     "smiles": "CC(C)=CCN1CCN(C(C)c2nc(C3CC3)no2)CC1",
     "pIC50": 3.68222437,
-    "observed_neighbors": 8,
+    "observed_neighbors": 10,
     "file": "transforms_OCNT-2395632_OpenADMET_pIC50.tsv",
+    "property": "OpenADMET_pIC50",
+    "products": 20
+  },
+  {
+    "id": "OCNT-2395632",
+    "smiles": "CC(C)=CCN1CCN(C(C)c2nc(C3CC3)no2)CC1",
+    "pIC50": 3.68222437,
+    "observed_neighbors": 10,
+    "file": "transforms_OCNT-2395632_ChEMBL_pIC50.tsv",
+    "property": "ChEMBL_pIC50",
+    "products": 29
+  },
+  {
+    "id": "OCNT-2395554",
+    "smiles": "Cc1occc1C(=O)NC1CCN(c2ccccc2OC(F)F)C1",
+    "pIC50": 5.114120648,
+    "observed_neighbors": 8,
+    "file": "transforms_OCNT-2395554_Combined_pIC50.tsv",
+    "property": "Combined_pIC50",
+    "products": 134
+  },
+  {
+    "id": "OCNT-2395554",
+    "smiles": "Cc1occc1C(=O)NC1CCN(c2ccccc2OC(F)F)C1",
+    "pIC50": 5.114120648,
+    "observed_neighbors": 8,
+    "file": "transforms_OCNT-2395554_OpenADMET_pIC50.tsv",
     "property": "OpenADMET_pIC50",
     "products": 17
   },
   {
-    "id": "OCNT-2395632",
-    "smiles": "CC(C)=CCN1CCN(C(C)c2nc(C3CC3)no2)CC1",
-    "pIC50": 3.68222437,
+    "id": "OCNT-2395554",
+    "smiles": "Cc1occc1C(=O)NC1CCN(c2ccccc2OC(F)F)C1",
+    "pIC50": 5.114120648,
     "observed_neighbors": 8,
-    "file": "transforms_OCNT-2395632_ChEMBL_pIC50.tsv",
-    "property": "ChEMBL_pIC50",
-    "products": 28
-  },
-  {
-    "id": "OCNT-2395554",
-    "smiles": "Cc1occc1C(=O)NC1CCN(c2ccccc2OC(F)F)C1",
-    "pIC50": 5.114120648,
-    "observed_neighbors": 7,
-    "file": "transforms_OCNT-2395554_Combined_pIC50.tsv",
-    "property": "Combined_pIC50",
-    "products": 108
-  },
-  {
-    "id": "OCNT-2395554",
-    "smiles": "Cc1occc1C(=O)NC1CCN(c2ccccc2OC(F)F)C1",
-    "pIC50": 5.114120648,
-    "observed_neighbors": 7,
-    "file": "transforms_OCNT-2395554_OpenADMET_pIC50.tsv",
-    "property": "OpenADMET_pIC50",
-    "products": 16
-  },
-  {
-    "id": "OCNT-2395554",
-    "smiles": "Cc1occc1C(=O)NC1CCN(c2ccccc2OC(F)F)C1",
-    "pIC50": 5.114120648,
-    "observed_neighbors": 7,
     "file": "transforms_OCNT-2395554_ChEMBL_pIC50.tsv",
     "property": "ChEMBL_pIC50",
-    "products": 99
+    "products": 124
   }
 ]
